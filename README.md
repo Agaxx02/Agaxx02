@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Agnieszka Ziora!
 
 <!--
 **Agaxx02/Agaxx02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## About me
+I am currently doing Bachelor's Degree in English philology and in my free time, I love to code!
+
+## Some of the projects that I did so far
+- [ToDoList](https://mytodolist02.herokuapp.com) - A simple todo list build with HTML, CSS, JavaScript, Node and Express
+- [PlantsAPI](https://rosliny-api.herokuapp.com) - My first attempt at building an API that sends back some information about different plants
+
+
