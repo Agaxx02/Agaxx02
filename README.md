@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 I am currently doing Bachelor's Degree in English philology and in my free time, I love to code!
 
 ## Some of the projects that I did so far
+- [React-todo-list](https://github.com/Agaxx02/react-todo-list) - Todo list made with MERN stack that includes authentication
 - [Horoscope-site](https://capable-longma-f41976.netlify.app) - A simple website built with HTML, CSS and JavaScript that takes in your birthday and returns horoscope
 - [ToDoList](https://mytodolist02.herokuapp.com) - A simple todo list build with HTML, CSS, JavaScript, Node and Express
 - [PlantsAPI](https://rosliny-api.herokuapp.com) - My first attempt at building an API that sends back some information about different plants
