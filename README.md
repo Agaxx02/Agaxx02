@@ -19,7 +19,7 @@ I am currently doing Bachelor's Degree in English philology and in my free time 
 
 ## Some of the projects that I did so far
 - [BookyTime-App-For-Rating-Books](https://bookytime-app.herokuapp.com/) - Web App for keeping track of all the books you've read. Created with MERN
-- [Shopping cart](https://github.com/Agaxx02/Shopping-cart) - Shopping cart created using Redux, TypeScript and React
+- [Shopping cart](https://6354e05febafdd36d1992d1f--resplendent-semifreddo-3d5899.netlify.app) - Shopping cart created using Redux, TypeScript and React
 - [React-todo-list](https://github.com/Agaxx02/react-todo-list) - Todo list made with MERN stack that includes authentication
 - [Horoscope-site](https://capable-longma-f41976.netlify.app) - A simple website built with HTML, CSS and JavaScript that takes in your birthday and returns horoscope
 - [ToDoList](https://mytodolist02.herokuapp.com) - A simple todo list build with HTML, CSS, JavaScript, Node and Express
