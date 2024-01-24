@@ -1,4 +1,4 @@
-### Hi there 👋 I am Agnieszka Ziora!
+### Hi there 👋 I am Agnieszka!
 
 <!--
 **Agaxx02/Agaxx02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
