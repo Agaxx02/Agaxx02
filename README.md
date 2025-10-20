@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## About me
-I am currently doing Bachelor's Degree in English philology and in my free time I love to code!
+I writing my doctoral dissertation in English philology and in my free time I love to code!
 
 ## Some of the projects that I did so far
 - [BookyTime-App-For-Rating-Books](https://github.com/Agaxx02/BookyTime-App-For-Rating-Books) - Web App for keeping track of all the books you've read. Created with MERN - deployed ❌
