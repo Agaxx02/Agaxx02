@@ -25,4 +25,4 @@ I writing my doctoral dissertation in English philology and in my free time I lo
 - [ToDoList](https://github.com/Agaxx02/ToDoList) - A simple todo list build with HTML, CSS, JavaScript, Node and Express - deployed ❌
 - [PlantsAPI](https://github.com/Agaxx02/PlantsAPI) - My first attempt at building an API that sends back some information about different plants - deployed ❌
 
-![Agaxx02 GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=Agaxx02&combine_all_yearly_contributions=true)
+![Agaxx02 GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=Agaxx02&combine_all_yearly_contributions=true&theme=gruvbox&show_icons=true)
