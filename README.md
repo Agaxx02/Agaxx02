@@ -26,3 +26,5 @@ I am writing my doctoral dissertation in English philology and in my free time I
 - [PlantsAPI](https://github.com/Agaxx02/PlantsAPI) - My first attempt at building an API that sends back some information about different plants - deployed ❌
 
 Currently mainly contributing to Fortran project
+
+[![Agaxx02's GitHub stats](https://github-readme-stats.vercel.app/api?username=Agaxx02&include_all_commits=true&theme=aura)](https://github.com/Agaxx02/github-readme-stats)
