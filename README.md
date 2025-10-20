@@ -26,6 +26,7 @@ I am writing my doctoral dissertation in English philology and in my free time I
 - [PlantsAPI](https://github.com/Agaxx02/PlantsAPI) - My first attempt at building an API that sends back some information about different plants - deployed ❌
 
 Currently mainly contributing to Fortran project
+
 <img width="545" height="275" alt="obraz" src="https://github.com/user-attachments/assets/23215ecf-bb5b-4a9f-ac15-9dd151329693" />
 
 
