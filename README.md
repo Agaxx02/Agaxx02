@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## About me
-I writing my doctoral dissertation in English philology and in my free time I love to code!
+I am writing my doctoral dissertation in English philology and in my free time I love to code!
 
 ## Some of the projects that I did so far
 - [BookyTime-App-For-Rating-Books](https://github.com/Agaxx02/BookyTime-App-For-Rating-Books) - Web App for keeping track of all the books you've read. Created with MERN - deployed ❌
@@ -25,4 +25,4 @@ I writing my doctoral dissertation in English philology and in my free time I lo
 - [ToDoList](https://github.com/Agaxx02/ToDoList) - A simple todo list build with HTML, CSS, JavaScript, Node and Express - deployed ❌
 - [PlantsAPI](https://github.com/Agaxx02/PlantsAPI) - My first attempt at building an API that sends back some information about different plants - deployed ❌
 
-![Agaxx02 GitHub Repository Contribution stats](https://github-readme-stats.vercel.app/api?username=Agaxx02&theme=gruvbox&show_icons=true)
+Currently mainly contributing to Fortran project
